@@ -1,0 +1,5 @@
+.venv/
+.gauntlet/
+*.egg-info/
+__pycache__/
+dashboard/node_modules/

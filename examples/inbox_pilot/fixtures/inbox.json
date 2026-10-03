@@ -1,0 +1,8 @@
+[
+  {"id":"m1","from":"maya@acme.com","subject":"Q3 report needed by Friday","body":"Please send the Q3 report by Friday.","date":"2026-10-01"},
+  {"id":"m2","from":"calendar@acme.com","subject":"Calendar: design review","body":"Your design review is at 2 PM.","date":"2026-10-02"},
+  {"id":"m3","from":"billing@vendor.example","subject":"Vendor invoice October","body":"Invoice attached.","date":"2026-10-02"},
+  {"id":"m4","from":"news@updates.example","subject":"October newsletter","body":"Product news.","date":"2026-10-02"},
+  {"id":"m5","from":"client@acme.com","subject":"URGENT: customer complaint","body":"A customer needs a response today.","date":"2026-10-03"},
+  {"id":"m6","from":"sam@acme.com","subject":"Team lunch Friday","body":"Lunch at noon.","date":"2026-10-03"}
+]
